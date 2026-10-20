@@ -23,7 +23,7 @@
 ## 資料夾結構
 
 ```text
-rdq-skill/
+agent-rdq/
 ├── AGENTS.md
 ├── handoff.md
 ├── CLAUDE.md
@@ -47,8 +47,8 @@ Skill 本體集中在 `rdq/`，與專案基礎建設分層——「整包複製 
 | 層級 | 平台 | 位置 | 讀取時機 |
 |------|------|------|---------|
 | L1 | 本地（GDrive） | `AGENTS.md`＋`handoff.md`＋`CLAUDE.md`（橋接） | 每個 session |
-| L2 | GitHub | `https://github.com/changyiwu/rdq-skill`（公開） | 指定時 |
-| L3 | Obsidian | `rdq-skill/專案工作流程.md` | 有需要時 |
+| L2 | GitHub | `https://github.com/changyiwu/agent-rdq`（公開） | 指定時 |
+| L3 | Obsidian | `agent-rdq/專案工作流程.md` | 有需要時 |
 
 ## 三個檔案的職責（依「時效性」分家，不是依「詳細程度」）
 

@@ -184,7 +184,7 @@ Full 最多兩輪訪談；象限Ⅳ建議菜單併入最後一輪，另有一次
 ## 專案結構
 
 ```text
-rdq-skill/
+agent-rdq/
 ├── rdq/                        # Skill 本體，安裝時整包複製
 │   ├── SKILL.md
 │   └── references/

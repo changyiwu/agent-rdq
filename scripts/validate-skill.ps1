@@ -125,13 +125,13 @@ $runtimePaths = @(
 $platformBoundPatterns = @(
     'AskUserQuestion',
     'WebSearch',
-    'html-slide-builder',
+    'html-slides',
     'soil-html-deck',
     'soil-image-deck',
     'soil-teaching-deck',
     'lesson-prep',
     'teaching-cockpit',
-    'teaching-minigames',
+    'minigames',
     'yt-pack',
     'seedance'
 )
